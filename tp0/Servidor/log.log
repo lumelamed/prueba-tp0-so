@@ -1,0 +1,36 @@
+[INFO] 18:59:10:338 Servidor/(6707:6707): Servidor listo para recibir al cliente
+[INFO] 19:05:07:080 Servidor/(6912:6912): Servidor listo para recibir al cliente
+[INFO] 19:06:54:692 Servidor/(6912:6912): Se conecto un cliente!
+[INFO] 19:06:54:695 Servidor/(6912:6912): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:13:45:853 Servidor/(6912:6912): el cliente se desconecto. Terminando servidor
+[INFO] 19:16:43:328 Servidor/(7218:7218): Servidor listo para recibir al cliente
+[INFO] 19:16:58:952 Servidor/(7218:7218): Se conecto un cliente!
+[INFO] 19:16:58:953 Servidor/(7218:7218): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:17:11:075 Servidor/(7218:7218): el cliente se desconecto. Terminando servidor
+[INFO] 19:17:45:754 Servidor/(7254:7254): Servidor listo para recibir al cliente
+[INFO] 19:18:14:187 Servidor/(7254:7254): Se conecto un cliente!
+[WARNING] 19:18:27:948 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:948 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:949 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:949 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:949 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:949 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[WARNING] 19:18:27:949 Servidor/(7254:7254): Operacion desconocida. No quieras meter la pata
+[ERROR] 19:18:27:949 Servidor/(7254:7254): el cliente se desconecto. Terminando servidor
+[INFO] 19:22:41:550 Servidor/(7476:7476): Servidor listo para recibir al cliente
+[INFO] 19:23:14:656 Servidor/(7476:7476): Se conecto un cliente!
+[INFO] 19:23:14:656 Servidor/(7476:7476): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:23:33:913 Servidor/(7476:7476): el cliente se desconecto. Terminando servidor
+[INFO] 19:38:18:498 Servidor/(7821:7821): Servidor listo para recibir al cliente
+[INFO] 19:38:45:374 Servidor/(7821:7821): Se conecto un cliente!
+[INFO] 19:38:45:480 Servidor/(7821:7821): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:39:20:082 Servidor/(7821:7821): el cliente se desconecto. Terminando servidor
+[INFO] 19:40:13:193 Servidor/(7888:7888): Servidor listo para recibir al cliente
+[INFO] 19:40:18:673 Servidor/(7888:7888): Se conecto un cliente!
+[INFO] 19:40:18:674 Servidor/(7888:7888): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:40:20:839 Servidor/(7888:7888): el cliente se desconecto. Terminando servidor
+[INFO] 19:48:27:816 Servidor/(8240:8240): Servidor listo para recibir al cliente
+[INFO] 19:58:09:359 Servidor/(8515:8515): Servidor listo para recibir al cliente
+[INFO] 19:58:23:750 Servidor/(8515:8515): Se conecto un cliente!
+[INFO] 19:58:23:751 Servidor/(8515:8515): Me llego el mensaje Hola, soy un valor
+[ERROR] 19:58:28:208 Servidor/(8515:8515): el cliente se desconecto. Terminando servidor
